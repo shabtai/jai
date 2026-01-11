@@ -1,5 +1,11 @@
 # Architecture & Implementation Guide
 
+## Requirements
+
+- **Python 3.10+** (required by pydantic-ai dependency)
+- Docker (for building and testing containers)
+- OpenAI or Google Gemini API key
+
 ## Project Overview
 
 This project implements an AI-powered tool that generates Dockerfiles for scripts using OpenAI/Gemini APIs, with comprehensive security hardening, multi-provider support, and large file handling capabilities.

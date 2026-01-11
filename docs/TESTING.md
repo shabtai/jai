@@ -1,5 +1,10 @@
 # Testing & Verification Guide
 
+## Prerequisites
+
+- **Python 3.10+** (required by pydantic-ai)
+- All dependencies installed: `pip install -r requirements.txt`
+
 ## Running Tests
 
 ### Quick Start

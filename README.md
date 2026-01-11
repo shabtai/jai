@@ -2,6 +2,12 @@
 
 An intelligent tool that uses AI to automatically generate, build, and test Docker containers for any script in any language.
 
+## Requirements
+
+- **Python 3.10+** (required by pydantic-ai)
+- Docker (for building and testing containers)
+- OpenAI API key or Google API key (for LLM provider)
+
 ## Quick Start
 
 ### 1. Install Dependencies

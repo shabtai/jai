@@ -1,3 +1,4 @@
+# Python 3.10+ required (pydantic-ai dependency)
 openai>=1.0.0
 pydantic-ai>=0.8.1
 pytest>=7.0.0
