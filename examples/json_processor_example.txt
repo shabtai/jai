@@ -1,0 +1,2 @@
+INPUT: {"users":[{"name":"Alice","age":28},{"name":"Bob","age":35}],"total":2}
+EXPECTED_OUTPUT: JSON Processing Report

@@ -1,0 +1,4 @@
+INPUT: [2024-01-11T10:30:00] INFO: Server started successfully
+[2024-01-11T10:30:05] DEBUG: Loading configuration
+[2024-01-11T10:30:10] INFO: Ready to accept connections
+EXPECTED_OUTPUT: Log Analysis Report

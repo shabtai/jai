@@ -1,0 +1,2 @@
+INPUT: https://example.com/path?query=hello world
+EXPECTED_OUTPUT: Encoded:

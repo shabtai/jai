@@ -1,0 +1,15 @@
+INPUT: [{"email":"user@example.com","age":25,"url":"https://example.com"}]
+EXPECTED_OUTPUT: Data Validation Report
+======================
+
+Validation Summary:
+  Errors: 0
+  Warnings: 0
+
+Data Structure:
+  Type: array
+  Size: 1
+  Depth: 2
+  Memory Usage: 62 bytes
+
+Status: VALID ✓

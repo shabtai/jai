@@ -1,0 +1,7 @@
+INPUT: name,age,salary
+Alice,28,75000
+Bob,35,85000
+Charlie,32,80000
+David,26,70000
+Eve,38,92000
+EXPECTED_OUTPUT: CSV Analysis Report

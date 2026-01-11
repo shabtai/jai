@@ -1,0 +1,2 @@
+INPUT: {"items": ["apple", "banana", "apple", "cherry"]}
+EXPECTED_OUTPUT: Connection error (network unavailable in Docker container)

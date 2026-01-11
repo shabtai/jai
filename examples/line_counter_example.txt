@@ -1,0 +1,5 @@
+INPUT: Hello world
+This is a test.
+EXPECTED_OUTPUT: Line Count: 2
+
+

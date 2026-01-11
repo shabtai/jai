@@ -1,0 +1,2 @@
+INPUT: The quick brown fox jumps over the lazy dog. This is a test sentence.
+EXPECTED_OUTPUT: Text Analysis Report
